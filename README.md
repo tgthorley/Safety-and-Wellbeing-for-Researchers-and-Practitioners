@@ -1,5 +1,6 @@
 # Safety-and-Wellbeing-for-Researchers-and-Practitioners
 A handbook for preventing and countering violent extremism online safely while protecting your wellbeing
+
 ## Intention and Purpose of Guide 
 Welcome to this handbook on safety and wellbeing for researchers and practitioners preventing and countering violent extremism online. In the challenging landscape of this field, where researchers and practitioners grapple with risks to both psychological and physical safety, this guide aims to be an introduction to crucial aspects to ensure the security, safety, and resilience of individuals involved in such critical work.
 
