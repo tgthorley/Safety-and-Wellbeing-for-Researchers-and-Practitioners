@@ -10,4 +10,4 @@ As this field is still developing, evidence is not available for all the approac
 This handbook was developed in consultation with the members of the Eradicate Hate Global Summit working group “Protecting the Protectors.” The working group was established in 2023 with the purpose of drawing on the lived experiences of P/CVE researchers and practitioners to fill gaps in the field related to understanding mental, physical, and digital well-being while undertaking P/CVE work. 
 
 ## How to use the guide 
-This guide is intended to be a wide collection of resources for the reader to tailor to their unique needs. 
+This guide is intended to be a wide collection of resources for the reader to tailor to their unique needs.
