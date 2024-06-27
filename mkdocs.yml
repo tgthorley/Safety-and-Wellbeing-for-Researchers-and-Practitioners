@@ -1,4 +1,5 @@
 site_name: "Eradicate Hate - Safety and Wellbeing for Researchers and Practitioners"
+site_url: https://tgthorley.github.io/Safety-and-Wellbeing-for-Researchers-and-Practitioners/
 theme:
   name: material
   palette:
