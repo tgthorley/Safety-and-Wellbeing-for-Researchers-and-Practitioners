@@ -1,0 +1,2 @@
+## Physical Safety Resources for Practitioners 
+- [Risks, Dangers, and Threat Models: Evaluating Security Analysis for Conflict Practitioners](https://www.academia.edu/51441242/_2021_Risks_Dangers_and_Threat_Models_Evaluating_Security_Analysis_for_Conflict_Practitioners)

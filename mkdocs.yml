@@ -1,0 +1,39 @@
+site_name: "Eradicate Hate - Safety and Wellbeing for Researchers and Practitioners"
+theme:
+  name: material
+  palette:
+    scheme: eradicate-hate
+  logo: images/cropped-eradicate_hate_favicon-192x192.png
+  favicon: images/cropped-eradicate_hate_favicon-192x192.png
+  features:
+    - navigation.expand
+  icon:
+    repo: fontawesome/brands/github
+extra_css:
+  - stylesheets/style.css
+#extra:
+  #consent:
+  #  title: Cookie consent
+  #    description: >- 
+  #    We use cookies to recognize your repeated visits and preferences, as well
+  #    as to measure the effectiveness of our documentation and whether users
+  #    find what they're searching for. With your consent, you're helping us to
+  #    make our documentation better.
+repo_url: https://github.com/tgthorley/Safety-and-Wellbeing-for-Researchers-and-Practitioners
+
+
+# Page tree
+nav:
+  - Home: index.md
+  - Safety and Wellbeing:
+    - Framing the Problem: Framing-the-problem.md
+    - Digital Safety Resources: Digital-Safety-Resources.md
+    - Physical Safety Resources for Practitioners: Physical-Safety-Resources-for-Practitioners.md
+  - Gaps in the Research:
+    - Safety and well-being for frontline practitioners: Safety-and-well-being-for-frontline-practitioners.md
+  - Inspiring Practices - Moving Forward:
+    - Care frameworks for independent practitioners: Care-frameworks-for-independent-practitioners.md
+    - Guides to Psychological Wellbeing: Guides-to-Psychological-Wellbeing.md
+    - Care frameworks for organizations: Care-frameworks-for-organizations.md
+    - Care frameworks for gatherings (conferences etc.): Care-frameworks-for-gatherings.md
+    - Approaches for Funders of research and practitioners: Approaches-for-Funders-of-research-and-practitioners.md

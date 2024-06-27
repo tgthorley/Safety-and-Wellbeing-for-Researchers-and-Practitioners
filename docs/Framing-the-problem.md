@@ -1,0 +1,14 @@
+## Framing the problem: Risks to psychological and physical safety when performing this work 
+Researchers and practitioners working on online extremism and terrorism face unique risks. These include repeated exposure to graphic and traumatic content, such as thousands of videos or images created by ISIS and other violent extremist groups. Researchers and practitioners must also manage the potential of being attacked or targeted online and offline through doxxing, trolling, or material threats by the very groups they are researching. These risks can be amplified depending on the identity factors of the researchers or practitioners. This section of the handbook collates the research that has been conducted into these risks and seeks to frame the problems facing researchers and practitioners to spread awareness of the risks as a first step in supporting our community to manage the risks effectively. 
+
+_TODO - \*Adding: sustainability in continuing to do this work; lack of institutional support; burnout_
+
+- [The Existential Crisis Plaguing Online Extremism Researchers](https://www.wired.com/story/existential-crisis-plaguing-online-extremism-researchers/)
+- [I Watched ISIS Videos, and Felt My Soul Diminished.](https://www.theatlantic.com/ideas/archive/2019/09/the-mental-toll-of-graphic-imagery/598663/)
+- [REASSURE: The Researcher Security, Safety and Resilience project](https://modus-zad.de/projekte/reassure/)
+- [Who’s Protecting the Researchers? REASSURE report findings on identity and harms for online extremism and terrorism researchers | International Centre for Counter-Terrorism](https://www.icct.nl/publication/whos-protecting-researchers-reassure-report-findings-identity-and-harms-online) 
+- [Online Extremism and Terrorism Researchers’ Security, Safety, and Resilience: Findings from the Field](https://voxpol.eu/wp-content/uploads/2024/01/Online-Extremism-and-Terrorism-Researchers-Security-Safety-Resilience.pdf)
+- ‘[It Gets To You.’ Extremism Researchers Confront The Unseen Toll Of Their Work](https://www.npr.org/2019/09/20/762430305/it-gets-to-you-extremism-researchers-confront-the-unseen-toll-of-their-work)
+- [Impact of Traumatic Material on Professionals](https://link.springer.com/article/10.1007/s11896-022-09532-8) 
+- [Secondary Traumatic Stress, Compassion Fatigue, and Counselor Spirituality: Implications for Counselors Working with Trauma](https://www.counseling.org/resources/library/Selected%20Topics/Crisis/Simpson.htm)
+- [The Psychological Well Being of Content Moderators](https://crowd.cs.vt.edu/wp-content/uploads/2021/02/CHI21_final__The_Psychological_Well_Being_of_Content_Moderators-2.pdf)
