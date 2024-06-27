@@ -24,3 +24,8 @@ This guide is intended to be a wide collection of resources for the reader to ta
     - Care frameworks for organizations
     - Care frameworks for gatherings (conferences etc.)
   - Approaches for Funders of research and practitioners
+
+# Guidelines for contributing to the Handbook
+- Edit or create new [markdown](https://www.markdownguide.org/cheat-sheet/) files in `docs/`
+- If you create a new file you also need to edit `mkdocs.yml` to add your page to the Page Tree in the right place
+- [Commit your changes](https://github.com/git-guides/git-commit) and create a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
