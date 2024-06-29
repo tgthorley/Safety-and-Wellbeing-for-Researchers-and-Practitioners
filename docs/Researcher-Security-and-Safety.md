@@ -74,7 +74,7 @@ Use privacy-focused browsers like [Mozilla Firefox](https://www.mozilla.org/fire
 
 ### Pubic data removal & social media lockdown
 
-Regularly audit and remove public data from online platforms especially social media profiles to limit personal information visibility. Tools like [DeleteMe](https://www.abine.com/deleteme/) or [Optery](optery.com)can assist in removing personal data from public databases.
+Regularly audit and remove public data from online platforms especially social media profiles to limit personal information visibility. Tools like [DeleteMe](https://www.abine.com/deleteme/) or [Optery](http://optery.com)can assist in removing personal data from public databases.
 
 ### Doxxing, Abuse and Harassment
 
