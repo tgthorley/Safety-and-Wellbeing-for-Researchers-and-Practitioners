@@ -12,3 +12,5 @@ This section of the handbook collates the research conducted into these risks an
 - [Impact of Traumatic Material on Professionals](https://link.springer.com/article/10.1007/s11896-022-09532-8) 
 - [Secondary Traumatic Stress, Compassion Fatigue, and Counselor Spirituality: Implications for Counselors Working with Trauma](https://www.counseling.org/resources/library/Selected%20Topics/Crisis/Simpson.htm)
 - [The Psychological Well Being of Content Moderators](https://crowd.cs.vt.edu/wp-content/uploads/2021/02/CHI21_final__The_Psychological_Well_Being_of_Content_Moderators-2.pdf)
+- [Repeated and Extensive Exposure to Online Terrorist Content: Counter-Terrorism Internet Referral Unit Perceived Stressors and Strategies](https://dspace.lib.cranfield.ac.uk/bitstream/handle/1826/16584/Repeated_and_extensive_exposure_to_online_terrorist_content-2021.pdf?sequence=1&isAllowed=y)
+- [Impact of Traumatic Material on Professionals in Analytical and Secondary](https://doi.org/10.1007/s11896-022-09532-8)
