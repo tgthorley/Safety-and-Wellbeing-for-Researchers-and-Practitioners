@@ -1,5 +1,4 @@
-_While evidence for the interventions and mitigations that practitioners can put in place is limited, there are some initial studies and frameworks that have been developed to enable researchers and practitioners to protect themselves and develop effective risk management approaches and we can draw on parallel fields such as the_ [_TRAUMA & JOURNALISM_](https://dartcenter.org/sites/default/files/DCE_JournoTraumaHandbook.pdf) _Guide For Journalists, Editors & Managers provides details in the appendices about how to manage the psychological impacts of researching and covering war and conflict. This section details these initial frameworks and highlights in-progress work in this area._ 
-
+_While evidence for the interventions and mitigations that practitioners can put in place is limited, there are some initial studies and frameworks that have been developed to enable researchers and practitioners to protect themselves and develop effective risk management approaches and we can draw on parallel fields such as the_ [_TRAUMA & JOURNALISM_](https://dartcenter.org/sites/default/files/DCE_JournoTraumaHandbook.pdf) _Guide For Journalists, Editors & Managers provides details in the appendices about how to manage the psychological impacts of researching and covering war and conflict. This section details these initial frameworks and highlights in-progress work in this area._
 
 ### Overviews
 
@@ -67,7 +66,7 @@ Researchers report benefits from the use of tools such as [CleanView by ActiveFe
 
 ### Destress with other activities
 
-Activities that take you away from a traumatic experience and produce serotonin can help disengage from traumatic experiences. 
+Activities that take you away from a traumatic experience and produce serotonin can help disengage from traumatic experiences.
 
 Go for a walk, watch bad TV, play with pets, read non-work related material like fiction, engage in gardening, go to the beach, swim, play games, and do puzzles. Whatever the activity is that you can engage in that centers you in a positive feeling physically and emotionally.
 
@@ -87,11 +86,11 @@ When we are experiencing secondary or vicarious trauma, researchers report that 
 
 ### Have a Self Care Plan
 
-If we don‘t have a plan for how we build the above into our lives we get busy and overwhelmed and self-care gets squeezed out. 
+If we don‘t have a plan for how we build the above into our lives we get busy and overwhelmed and self-care gets squeezed out.
 
 - [Why you need a self-care plan (and 5 ways to get started)](https://www.betterup.com/blog/self-care-plan)  
 - [How to create your own self-care plan | Calmer](https://www.thisiscalmer.com/blog/how-to-create-self-care-plan-guide)
-- [Self-Care - Active Minds](https://www.activeminds.org/about-mental-health/self-care/) 
+- [Self-Care - Active Minds](https://www.activeminds.org/about-mental-health/self-care/)
 - [Self Care Template](https://d3pg1c2bhy6429.cloudfront.net/109603/85MWT6h-z3Ep9M0bfXmjE1JushSoKUpJUzH4Akwd/story_content/external_files/Self-Care%20Template_R.PDF)
 - [Toolkits - Rated R](https://sites.google.com/view/ratedr/toolkits?authuser=0)
 - [Everything Is Awful and I'm Not Okay: questions to ask before giving up](http://www.aimeemaxwell.net/wp-content/uploads/2017/11/everything-is-awful-and-im-not-ok.pdf)
