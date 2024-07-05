@@ -1,6 +1,11 @@
 ## Codes of conduct
 
-For both virtual and in-person gatherings of researchers and practitioners in this field, providing a clear and well-defined code of conduct is crucial. This document outlines expected behavior and sets a standard for professionalism, respect, and inclusivity within the community. Here’s why developing a code of conduct is important:
+For both virtual and in-person gatherings of researchers and practitioners in this field, providing a clear and well-defined code of conduct is crucial. A group of over 40 professionals who have dedicated their careers to ending hate, bigotry, extremism and violence in its many forms created a set of [**Guidance for Safe
+and Inclusive Events**](https://github.com/tgthorley/Safety-and-Wellbeing-for-Researchers-and-Practitioners/blob/main/docs/assets/Guidance-for-Safe-and-Inclusive-Events-An-open-resource.pdf).
+
+This resource has been made available for use by organizations, conferences, and events. It offers detailed information on what represents violations of the Code of Conduct, as well as responsibilities for event organizers, participating organizations, and bystanders. Please consider adopting or adapting this Code of Conduct for your events.
+
+Adapting or adopting a Code of Conduct is critical:
 
 - **Establishing Expectations:** A code of conduct clarifies what is acceptable and unacceptable behavior, ensuring all participants understand the boundaries and norms of interaction. This fosters a safer and more welcoming environment for everyone involved.
 - **Promoting Inclusivity and Diversity**: By explicitly stating values such as respect for diversity, inclusion, and zero tolerance for discrimination, a code of conduct encourages a diverse range of participants to feel valued and respected. This is essential for creating a supportive community where all feel welcome.
@@ -15,7 +20,7 @@ Here are some resources and examples to aid developing a code of conduct for you
 
 1. **Tech Conferences and Community Guidelines**: Many tech conferences and communities publish their own code of conduct that can serve as a good starting point. Examples include the codes of conduct from conferences like [DEF CON, Black Hat](https://defcon.org/html/links/dc-code-of-conduct.html), [TrustCon](https://www.trustcon.net/trustcon2024/code-of-conduct).
 
-2. **Online Resources and Templates**: Websites like the[ Citizen Code of Conduct](http://citizencodeofconduct.org/) offer templates and guidelines specifically tailored for communities and events as do [Geek Feminism](https://geekfeminism.fandom.com/wiki/Conference_anti-harassment)
+2. **Online Resources and Templates**: Websites like the[Citizen Code of Conduct](http://citizencodeofconduct.org/) offer templates and guidelines specifically tailored for communities and events as do [Geek Feminism](https://geekfeminism.fandom.com/wiki/Conference_anti-harassment)
 
 ### Spaces for decompression
 
