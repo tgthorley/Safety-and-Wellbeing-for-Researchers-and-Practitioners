@@ -4,7 +4,7 @@ Furthermore, the ethical inclusion and care of former extremists in research pro
 
 We aim to advance knowledge, inform policy, and enhance practices that contribute to a safer, more inclusive society. We highlight these research gaps with the hope that new frontiers in research and practice can, ensure ethical standards and practical solutions that benefit researchers, practitioners and the communities they serve.
 
-1. ## Research Objectives
+## Research Objectives
 
 ### 1. Influence of Identity Factors on Researcher and Practitioner Safety
 
